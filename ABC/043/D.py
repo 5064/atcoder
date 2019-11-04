@@ -1,3 +1,5 @@
+# Not AC
+
 from collections import Counter
 
 s = input()
