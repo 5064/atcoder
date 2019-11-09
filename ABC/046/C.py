@@ -13,7 +13,6 @@ for n in range(1, N):
     # ↓
     coeff = max((t_ratio + t_votes - 1) // t_ratio,
                 (a_ratio + a_votes - 1) // a_ratio)
-
     t_votes = coeff * t_ratio
     a_votes = coeff * a_ratio
 
