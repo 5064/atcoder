@@ -1,4 +1,4 @@
-# Too slow
+# TLE
 # 部分点を獲得
 
 from itertools import combinations, starmap
